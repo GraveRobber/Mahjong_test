@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff3668461cf4834dae7f42d9289fde7, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  gridsPrefabs:
+  - {fileID: 4238054908676641091, guid: 9dbe6454fe5496d4c815825b632dbb80, type: 3}
+  tileTypes:
+  - {fileID: 11400000, guid: 2a284187466ab0047a42175e4305c345, type: 2}
+  - {fileID: 11400000, guid: c96f0c3fcacc8044d85570b1de631962, type: 2}
+  - {fileID: 11400000, guid: e4e7d7be78a4e76489939f9127cdd4eb, type: 2}
+  - {fileID: 11400000, guid: 64a6b83be40a63746a0e176d0e57e93f, type: 2}
+  - {fileID: 11400000, guid: efe1f8708d7709544a1e6075d565c37d, type: 2}
+  - {fileID: 11400000, guid: 0d64b01db753b8e489c60fdfe9de2a0a, type: 2}
+  - {fileID: 11400000, guid: 5ddb2950bf022b24cb43a6fad115ceca, type: 2}
+  - {fileID: 11400000, guid: 06d9c78dd6b8568419832ce9a9feb401, type: 2}
+  - {fileID: 11400000, guid: b60db22a261bba148a761c970e73fab7, type: 2}
+  - {fileID: 11400000, guid: 8722b6f1bd3e9cc4c96742e18b6f8a0c, type: 2}
+  - {fileID: 11400000, guid: 4acaaf01853eb9c46a5c20d2abafd6bc, type: 2}
+  - {fileID: 11400000, guid: 846c2e8e8e5c1df46be91f298365d8e5, type: 2}
+  - {fileID: 11400000, guid: ba3750f1b8506f844abf835a789e679a, type: 2}
+  - {fileID: 11400000, guid: bde327af8a1ac754da250ed87c360580, type: 2}
+  - {fileID: 11400000, guid: 7e0107364e1541f48975a455e11ca790, type: 2}
+  - {fileID: 11400000, guid: 02bd08a3cd560af4897d4cf4bdf36b05, type: 2}
+  - {fileID: 11400000, guid: e297c64d8c9598d4283ae76542bd159f, type: 2}
+  - {fileID: 11400000, guid: 856729d71dc00b749bd0734e4d1413a4, type: 2}
+  BlockedTileColor: {r: 0.62352943, g: 0.38039216, b: 0.38039216, a: 1}
